@@ -1,0 +1,8 @@
+# Root-level ignores for the nested CRA app
+hackathon2/node_modules/
+hackathon2/build/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
